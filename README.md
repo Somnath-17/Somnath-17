@@ -1,7 +1,7 @@
 HI, 💫 I'm Somnath Mondal
 
 
-A passioniate developer || email me -- mondalsomnath91004@gmail.com
+A passionate developer || email me -- mondalsomnath91004@gmail.com
 
 
 
