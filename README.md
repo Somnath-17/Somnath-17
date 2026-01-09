@@ -16,8 +16,8 @@ A passionate developer || email me -- mondalsomnath91004@gmail.com
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ ✍️ 
+"Talk is cheap. Show me the code."
 
 
 ---
